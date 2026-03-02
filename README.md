@@ -61,19 +61,6 @@ El sistema se divide en **3 servicios independientes**:
 ## 🔧 Herramientas
 
 `Notion` `GitHub` `WhatsApp` `Visual Studio Code` `Postman`
-
----
-
-## ⚙️ Variables de Entorno
-
-```env
-PORT=3000
-MONGO_URI=mongodb+srv://...
-JWT_SECRET=your_secret
-JWT_ISSUER=k-bank
-JWT_AUDIENCE=k-bank-users
-```
-
 ---
 
 ## 🚀 Instalación y Uso

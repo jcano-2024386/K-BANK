@@ -64,25 +64,4 @@ El sistema se divide en **3 servicios independientes**:
 `Notion` `GitHub` `WhatsApp` `Visual Studio Code` `Postman`
 ---
 
-## 🚀 Instalación y Uso
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/tu-usuario/Sistema-Bancario--SCRUM.git
-cd Sistema-Bancario--SCRUM
-
-# Instalar dependencias
-pnpm install
-
-# Configurar variables de entorno
-cp .env.example .env
-
-# Iniciar en desarrollo
-pnpm dev
-
-# Iniciar en producción
-pnpm start
-```
-
-
 *Centro Educativo Técnico Laboral Kinal · Guatemala 2026*
